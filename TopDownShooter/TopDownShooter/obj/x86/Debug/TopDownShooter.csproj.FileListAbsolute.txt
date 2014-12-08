@@ -1,0 +1,29 @@
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.csprojResolveAssemblyReference.cache
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\TopDownShooter.exe
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\TopDownShooter.pdb
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\IgnoreMe.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\MonoGame.Framework.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.XAudio2.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.Direct3D11.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.DXGI.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.Direct2D1.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\Lidgren.Network.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.XInput.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.RawInput.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.Direct3D9.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.xml
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.XAudio2.xml
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.Direct3D11.xml
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.DXGI.xml
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.Direct2D1.xml
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.XInput.xml
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.RawInput.xml
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\SharpDX.Direct3D9.xml
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.exe
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooter\obj\x86\Debug\TopDownShooter.pdb
+C:\Users\SebastianEsp\Documents\Visual Studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\Content\16x16 SH test.png
+C:\Users\SebastianEsp\Documents\Visual Studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\Content\16x16 SH test.xnb
+C:\Users\SebastianEsp\Documents\Visual Studio 2012\Projects\TopDownShooter\TopDownShooter\bin\Windows\Debug\Content\HeartContainersSH.xnb

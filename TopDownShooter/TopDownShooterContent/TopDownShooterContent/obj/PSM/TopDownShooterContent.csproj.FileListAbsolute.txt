@@ -1,0 +1,7 @@
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooterContent\TopDownShooterContent\bin\PSM\IgnoreMe.dll
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooterContent\TopDownShooterContent\obj\PSM\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\sebastianesp\documents\visual studio 2012\Projects\TopDownShooter\TopDownShooterContent\TopDownShooterContent\obj\PSM\IgnoreMe.dll
+C:\Users\SebastianEsp\Documents\Visual Studio 2012\Projects\TopDownShooter\TopDownShooterContent\TopDownShooterContent\bin\PSM\Content\16x16 SH test.png
+C:\Users\SebastianEsp\Documents\Visual Studio 2012\Projects\TopDownShooter\TopDownShooterContent\TopDownShooterContent\bin\PSM\Content\16x16 SH test.xnb
+C:\Users\SebastianEsp\Documents\Visual Studio 2012\Projects\TopDownShooter\TopDownShooterContent\TopDownShooterContent\bin\PSM\Content\HeartContainersSH.xnb
+C:\Users\SebastianEsp\Documents\Visual Studio 2012\Projects\TopDownShooter\TopDownShooterContent\TopDownShooterContent\obj\PSM\TopDownShooterContent.csprojResolveAssemblyReference.cache
